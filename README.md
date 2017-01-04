@@ -1,7 +1,9 @@
 # BasicPhrases (Android)
 ![alt tag](https://github.com/shrobon/BasicPhrases/blob/master/basicsPhrases.PNG)
 
-An app to help non-French speakers to remember common French phrases
+
+An app to help non-French speakers to remember common French phrases.
+
 I was building this app, while participating in "The Complete Android N Developer Course" by Rob Percival @ Udemy.com
 
 ## License
